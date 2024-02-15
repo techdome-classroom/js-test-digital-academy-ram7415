@@ -3,7 +3,6 @@
  * @return {boolean}
  */
 var isValid = function (s) {
-    var isValid = function (s) {
         if (s !== "()" && s !== "{}" && s !== "[]") {
           return false;
         } else {
