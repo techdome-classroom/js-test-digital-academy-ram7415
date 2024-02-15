@@ -5,9 +5,9 @@
 var isValid = function (s) {
     var isValid = function (s) {
         if (s !== "()" && s !== "{}" && s !== "[]") {
-          console.log(false);
+          return false;
         } else {
-          console.log(true);
+          return true;
         }
       };
 module.exports = { isValid };
