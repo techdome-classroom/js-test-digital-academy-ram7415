@@ -3,6 +3,7 @@
  * @return {boolean}
  */
 var isValid = function(s) {
+    if(s===(s))
     
 };
 
