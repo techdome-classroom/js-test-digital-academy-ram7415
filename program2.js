@@ -15,7 +15,7 @@ var romanToInt = function(s) {
        result=0;
        for(let num = 0; num>=romanNumber.length; num++)
        {
-        if(s=)
+        if(s)
        }
         
     
