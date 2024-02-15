@@ -3,7 +3,8 @@
  * @return {number}
  */
 var romanToInt = function(s) {
-    romanNUmber = { I =1,
+    romanNUmber = {
+         I :1,
          V : 5,
          X: 10,
          L:50,
