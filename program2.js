@@ -13,7 +13,9 @@ var romanToInt = function(s) {
         M:1000};
        
        result=0;
-       
+       for(let j= 0, j=romanNumber.length ,j++){
+
+       }
         
     
 };
