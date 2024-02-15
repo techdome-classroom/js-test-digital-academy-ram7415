@@ -9,5 +9,5 @@ var isValid = function (s) {
     console.log(false);
   }
 };
-
+isValid([s]);
 module.exports = { isValid };
