@@ -4,11 +4,10 @@
  */
 var isValid = function (s) {
     if (s !== "()" && s !== "{}" && s !== "[]" && s !== "()[]{}")  
-     {
-      return false;
-        }
-         else 
          {
+          return false;
+        }
+         else {
           return true;
         }
       };
