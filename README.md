@@ -34,3 +34,4 @@ The test script (`test1.js`), (`test2.js`) is designed to check the correctness 
     npm run test2
 5. Review the test results for each program. If all tests pass, the programs are working correctly.
 6. Commit and push your code to the repository so that your test will be submitted.
+7. complete this testReview the test results for each program. If all tests pass, the programs are working correctly.
